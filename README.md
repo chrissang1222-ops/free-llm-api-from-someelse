@@ -175,7 +175,6 @@ Base URL: `https://api.kilo.ai/api/gateway`
 | Model Name                                           | Context | Max Output | Modality      | Rate Limit |
 | ---------------------------------------------------- | ------- | ---------- | ------------- | ---------- |
 | `nvidia/nemotron-3-ultra-550b-a55b:free`             | 1M      | 65K        | Text          | 200 req/hr |
-| `stepfun/step-3.7-flash:free`                        | 262K    | 262K       | Text + Vision | 200 req/hr |
 | `nvidia/nemotron-3-super-120b-a12b:free`             | 262K    | 262K       | Text          | 200 req/hr |
 | `nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free` | 256K    | 65K        | Multimodal    | 200 req/hr |
 | `poolside/laguna-s-2.1:free`                         | 262K    | 32K        | Text (code)   | 200 req/hr |
@@ -187,9 +186,7 @@ Base URL: `https://api.kilo.ai/api/gateway`
 | `liquid/lfm-2.5-2.6b:free`                           | 64K     | 8K         | Text          | 200 req/hr |
 | `kilo-auto/free`                                     | 256K    | 32K        | Text          | 200 req/hr |
 | `inclusionai/ling-3.1-flash`                         | 262K    | 32K        | Text          | 200 req/hr |
-| `inclusionai/ling-3.0-flash-sante:free`              | 262K    | 32K        | Text          | 200 req/hr |
 | `apodex/apodex-1.1-mini:free`                        | 262K    | 235K       | Text          | 200 req/hr |
-| `qwen/qwen3.8-27b:free`                              | 262K    | 235K       | Multimodal    | 200 req/hr |
 | `dots-studio/dots-3-note-preview:free`               | 512K    | 460K       | Text + Vision | 200 req/hr |
 
 ### [LLM7.io](https://token.llm7.io) 🇬🇧
