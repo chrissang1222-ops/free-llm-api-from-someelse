@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-05",
+  "lastUpdated": "2026-10-14",
   "providers": [
     {
       "name": "Aion Labs",
@@ -540,14 +540,6 @@
           "rateLimit": "200 req/hr"
         },
         {
-          "id": "stepfun/step-3.7-flash:free",
-          "name": "stepfun/step-3.7-flash:free",
-          "context": "262K",
-          "maxOutput": "262K",
-          "modality": "Text + Vision",
-          "rateLimit": "200 req/hr"
-        },
-        {
           "id": "nvidia/nemotron-3-super-120b-a12b:free",
           "name": "nvidia/nemotron-3-super-120b-a12b:free",
           "context": "262K",
@@ -636,27 +628,11 @@
           "rateLimit": "200 req/hr"
         },
         {
-          "id": "inclusionai/ling-3.0-flash-sante:free",
-          "name": "inclusionai/ling-3.0-flash-sante:free",
-          "context": "262K",
-          "maxOutput": "32K",
-          "modality": "Text",
-          "rateLimit": "200 req/hr"
-        },
-        {
           "id": "apodex/apodex-1.1-mini:free",
           "name": "apodex/apodex-1.1-mini:free",
           "context": "262K",
           "maxOutput": "235K",
           "modality": "Text",
-          "rateLimit": "200 req/hr"
-        },
-        {
-          "id": "qwen/qwen3.8-27b:free",
-          "name": "qwen/qwen3.8-27b:free",
-          "context": "262K",
-          "maxOutput": "235K",
-          "modality": "Multimodal",
           "rateLimit": "200 req/hr"
         },
         {
